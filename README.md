@@ -4,10 +4,15 @@
 
 [![Nunsinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunsinee)](https://github.com/nunsinee/github-readme-stats)
 
-###### Contact me
+# Contact me
 
 [LinkedIn](https://www.linkedin.com/in/nunsinee/).
 [Facebook](https://www.facebook.com/Krabi-Islander-106733358584511).
-:e-mail: nunsinee@gmail.com -[Check my web portfolio](https://www.webbymim.com)
+:e-mail: nunsinee@gmail.com
+[Check my webportfolio](https://www.webbymim.com)
 
-###### Languages and Tools
+# Frameworks, Platforms and Libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
