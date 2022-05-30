@@ -5,18 +5,13 @@ and I am looking for an opportunity to start work as a front-end web developer.
 
 [![Nunsinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunsinee)](https://github.com/nunsinee/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunsinee&layout=compact)](https://github.com/nunsinee/github-readme-stats)
+
 # Contact me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="https://twitter.com/MimInNorway"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="https://www.linkedin.com/in/nunsinee/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="https://www.facebook.com/Krabi-Islander-106733358584511"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-</p>
-
--   ![https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg](https://twitter.com/MimInNorway)
 -   [LinkedIn](https://www.linkedin.com/in/nunsinee/)
 -   [Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
+-   [Twitter](https://twitter.com/MimInNorway)
 -   :e-mail: nunsinee@gmail.com
 -   [Check my webportfolio](https://www.webbymim.com)
 
