@@ -6,9 +6,10 @@
 
 # Contact me
 
-**[LinkedIn](https://www.linkedin.com/in/nunsinee/)**
-**[Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)**
-**:e-mail: nunsinee@gmail.com ###[Check my webportfolio](https://www.webbymim.com)**
+**[LinkedIn](https://www.linkedin.com/in/nunsinee/)** <br />
+**[Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)**<br />
+**:e-mail: nunsinee@gmail.com**<br />
+**[Check my webportfolio](https://www.webbymim.com)**<br />
 
 # Languages
 
