@@ -5,12 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hi, I am Nunsinee Viken and I currently studying front-end web development at NOROFF and I am looking for an opportunity to start work as a front-end web developer. 
+
+- 📫 nunsinee@gmail.com
+- 😄 [Check my web portfolio](https://www.webbymim.com)
+- ⚡ Skills: 
+Html
+CSS
+JavaScript
+Wordpress
+Bootstrap
+Adobe XD
+PhotoShop
+Node.js
+React
+Illustrator
 -->
