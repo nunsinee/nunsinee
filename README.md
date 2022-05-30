@@ -7,8 +7,10 @@ and I am looking for an opportunity to start work as a front-end web developer.
 
 # Contact me
 
-> [LinkedIn](https://www.linkedin.com/in/nunsinee/) >[Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
-> :e-mail: nunsinee@gmail.com >[Check my webportfolio](https://www.webbymim.com)
+-   [LinkedIn](https://www.linkedin.com/in/nunsinee/)
+-   [Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
+-   :e-mail: nunsinee@gmail.com
+-   [Check my webportfolio](https://www.webbymim.com)
 
 # Languages
 
