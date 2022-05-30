@@ -2,9 +2,8 @@
 
 🔭 I am Nunsinee Viken and I currently studying front-end web development at NOROFF and I am looking for an opportunity to start work as a front-end web developer.
 
-<hr/>
 [![Nunsinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunsinee)](https://github.com/nunsinee/github-readme-stats)
-<hr/>
+
 # Contact me
 
 [LinkedIn](https://www.linkedin.com/in/nunsinee/)
