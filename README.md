@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-🔭 I am Nunsinee Viken and I currently studying front-end web development at NOROFF and I am looking for an opportunity to start work as a front-end web developer.
+🔭 I am Nunsinee Viken and I currently studying front-end web development at NOROFF
+and I am looking for an opportunity to start work as a front-end web developer.
 
 [![Nunsinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunsinee)](https://github.com/nunsinee/github-readme-stats)
 
@@ -36,7 +37,7 @@
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-# Hosting/SaaS
+# Hosting
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
