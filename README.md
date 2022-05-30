@@ -14,6 +14,7 @@ and I am looking for an opportunity to start work as a front-end web developer.
 <a href="your link" target="https://www.facebook.com/Krabi-Islander-106733358584511"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
+-   ![https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg](https://twitter.com/MimInNorway)
 -   [LinkedIn](https://www.linkedin.com/in/nunsinee/)
 -   [Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
 -   :e-mail: nunsinee@gmail.com
