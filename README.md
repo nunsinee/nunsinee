@@ -1,4 +1,4 @@
-## Hi there! 👋
+# Hi there! 👋
 
 -   🔭 I am Nunsinee Viken and I currently studying front-end web development at NOROFF and I am looking for an opportunity to start work as a front-end web developer.
 
@@ -6,10 +6,10 @@
 
 # Contact me
 
-**[LinkedIn](https://www.linkedin.com/in/nunsinee/)** <br />
-**[Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)**<br />
-**:e-mail: nunsinee@gmail.com**<br />
-**[Check my webportfolio](https://www.webbymim.com)**<br />
+[LinkedIn](https://www.linkedin.com/in/nunsinee/)
+[Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
+:e-mail: nunsinee@gmail.com
+[Check my webportfolio](https://www.webbymim.com)
 
 # Languages
 
