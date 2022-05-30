@@ -1,23 +1,13 @@
-### Hi there 👋
+## Hi there! 👋
 
-<!--
-**nunsinee/nunsinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🔭 I am Nunsinee Viken and I currently studying front-end web development at NOROFF and I am looking for an opportunity to start work as a front-end web developer.
 
-Here are some ideas to get you started:
+[![Nunsinee's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunsinee)](https://github.com/nunsinee/github-readme-stats)
 
-- 🔭 Hi, I am Nunsinee Viken and I currently studying front-end web development at NOROFF and I am looking for an opportunity to start work as a front-end web developer. 
+###### Contact me
 
-- 📫 nunsinee@gmail.com
-- 😄 [Check my web portfolio](https://www.webbymim.com)
-- ⚡ Skills: 
-Html
-CSS
-JavaScript
-Wordpress
-Bootstrap
-Adobe XD
-PhotoShop
-Node.js
-React
-Illustrator
--->
+[LinkedIn](https://www.linkedin.com/in/nunsinee/).
+[Facebook](https://www.facebook.com/Krabi-Islander-106733358584511).
+:e-mail: nunsinee@gmail.com -[Check my web portfolio](https://www.webbymim.com)
+
+###### Languages and Tools
