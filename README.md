@@ -7,7 +7,7 @@ and I am looking for an opportunity to start work as a front-end web developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunsinee&layout=compact)](https://github.com/nunsinee/github-readme-stats)
 
-# Contact me
+# Connecting to me
 
 -   [LinkedIn](https://www.linkedin.com/in/nunsinee/)
 -   [Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
