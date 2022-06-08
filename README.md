@@ -13,7 +13,8 @@ and I am looking for an opportunity to start work as a front-end web developer.
 -   [Facebook](https://www.facebook.com/Krabi-Islander-106733358584511)
 -   [Twitter](https://twitter.com/MimInNorway)
 -   :e-mail: nunsinee@gmail.com
--   [Check my webportfolio](https://www.webbymim.com)
+-   [View my web portfolio-01](https://www.webbymim.com)
+-   [View school projects/Web portfolio-02)](https://webportfolio-2.vercel.app/)
 
 # Languages
 
